@@ -2,3 +2,4 @@ transformers
 faiss-cpu
 streamlit
 pandas
+torch
